@@ -4,25 +4,27 @@ title: Events
 permalink: /events/
 ---
 
-Past Hands-on tutorials:
+Hands-on tutorials:
 
   * **2017/11**: UCSC CROSS Grad Researcher Onboarding (7).
-  * **2018/01**: AMS Annual Meeting (9).
+  * **2018/01**: 2018 AMS Annual Meeting (9).
   * **2018/03**: UC Davis Data Science Initiative (4).
   * **2018/08**: LANL Summer School (9).
   * **2018/09**: UC Merced Data Science Institute (10).
-  * **2019/01**: [Hands-on Tutorial at PPoPP'19][ppopp] (8).
-  * **2019/08**: A [hands-on tutorial on Popper][fsci19] was part of 
-    the [FSCI 2019](https://force11.org/fsci/2019/) program (8).
+  * **2019/01**: [PPoPP'19][ppopp] (8).
+  * **2019/08**: [FSCI19][fsci19] (8).
+  * **2019/09**: A hands-on tutorial on Popper will be part of the 
+    [eScience 2019](https://escience2019.sdsc.edu/tutorials) 
+    conference program.
 
-Past presentations:
+Presentations:
 
   * **2019/05/19**: Ivo Jimenez presented at [Cephalocon 
     Barcelona'19](https://sched.co/MAKP) on the work by UCSC students 
     on automating Ceph experimentation workflows using Popper. See 
     video of presentation [here][cephalocon19].
 
-Past news:
+News:
 
   * **2019/03/13**: Popper 2.0 released. Read the announcement in [our 
     blog](https://medium.com/getpopper/announcing-popper-2-0-a-github-actions-executioner-in-python-cf25620c021e).

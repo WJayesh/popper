@@ -24,8 +24,8 @@ start, please feel free to contact us.
 
 ### Upcoming Events:
 
-  * **2019/08/21**: A hands-on tutorial on Popper will be part of the [eScience 
-    2019](https://escience2019.sdsc.edu/tutorials) tutorials program.
+  * **2019/09/25**: A hands-on tutorial on Popper will be part of the [eScience 
+    2019](https://escience2019.sdsc.edu/tutorials) conference program.
 
 ### News
 
