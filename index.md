@@ -24,13 +24,16 @@ start, please feel free to contact us.
 
 ### Upcoming Events:
 
-  * **2019/09/25**: A hands-on tutorial on Popper will be part of the [eScience 
-    2019](https://escience2019.sdsc.edu/tutorials) conference program.
+  * **2020/02/03**. Project lead Ivo Jimenez will present at the 3rd 
+    Exascale Computing Project Annual Meeting on "Popper 2.0: A i 
+    Multi-container Workflow Execution Engine".
+  * **2020/04/26**: Project lead Ivo Jimenez will present at Red Hat 
+    Summit (Research Day) in San Francisco on Popper.
 
 ### News
 
-  * **2019/08/01**: Popper [2.4.0 
-    released](https://github.com/systemslab/popper/releases/tag/v2.4.0)!
+  * **2020/01/22**: List of (potential) GSoC'20 projects [has been 
+  posted](http://uccross.github.io/gsoc20)!
 
 [View all past announcements.]({{ site.baseurl }}/events/index)
 
